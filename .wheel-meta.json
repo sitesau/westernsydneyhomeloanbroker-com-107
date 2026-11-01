@@ -1,0 +1,22 @@
+{
+  "wheel_id": 611,
+  "structure": "umbrella",
+  "slug": "westernsydneyhomeloanbroker-com-107",
+  "project": "home-loan-broker-western-sydney-planning-guide-01b07a2a2d7c7354",
+  "parent_t1_ref": "westernsydneyhomeloanbroker-com-153",
+  "node_role": "feeder",
+  "money_target": "westernsydneyhomeloanbroker.com.au",
+  "primary_kw": "home loan broker western sydney planning guide",
+  "intended_url": "https://sites-e470-2.web.app/home-loan-broker-western-sydney-planning-guide-01b07a2a2d7c7354/",
+  "tier": "T2",
+  "writeback_nonce": "c453322f7a66b00c",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/home-loan-broker-western-sydney-6f8d8424d18793497532fdabcdd7089/",
+      "anchor": "https://aumedia.neocities.org/home-loan-broker-western-sydney-6f8d8424d18793497532fdabcdd7089/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
